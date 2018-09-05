@@ -1,5 +1,6 @@
 # Unity3DTwitterGIFUploadSample
-A sample code to upload GIF. Not polished but I hope it helps anybody interested in implementing twitter GIF upload on Unity3D
+A sample code to upload GIF using chunked media/upload API.
+Not polished, but I hope it helps everyone interested in knowing how to implement twitter GIF upload on Unity3D
 
 ## Usage
 1. Download TwitterKit (https://github.com/twitter/twitter-kit-unity)
