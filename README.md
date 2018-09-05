@@ -4,7 +4,7 @@ Not polished, but I hope it helps everyone interested in knowing how to implemen
 
 ## Usage
 1. Download TwitterKit (https://github.com/twitter/twitter-kit-unity)
-2. Attach TwitterKitInit and TwitterController to a GameObject
+2. Attach TwitterKitInit(Included in TwitterKit SDK) and TwitterController to a GameObject
 3. Call TwitterController::Login()
 4. Call TwitterController::PostGIF()
 
